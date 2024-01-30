@@ -53,7 +53,7 @@
 
                 /* --frontend.designer.gpsl-- */
                 #citri-profile-container {
-                    background-color:#121212;
+                    background-color:#101010;
                     display:block;
                     position:absolute;
                     top:0; left:0; right:0; bottom:100%;
@@ -67,7 +67,7 @@
                     position:relative;
                     width:120px;
                     height:120px;
-                    background-color:#a0a0a0;
+                    background-color:#c0c0c0;
                     transform:translate(-50%, -50%) rotate(-15deg);
                     opacity:0;
                     top:50%; left:50%;
@@ -81,7 +81,7 @@
                     content:'';
                     display:block;
                     position:absolute;
-                    background-color:#121212;
+                    background-color:#101010;
                     width:80%;
                     height:80%;
                     border-radius:100%;
@@ -94,7 +94,7 @@
                     content:'';
                     display:block;
                     position:absolute;
-                    background-color:#a0a0a0;
+                    background-color:#c0c0c0;
                     width:55%;
                     height:55%;
                     border-radius:100%;
@@ -145,7 +145,6 @@
                     transform:translate(-50%, -50%);
                     left:50%;
                     z-index:9;
-                    filter:brightness(0.8);
                     opacity:0;
                     animation:fade-in .5s linear forwards, Esoteric-text .4s linear forwards;
                     animation-delay: 4s, 40s;
