@@ -1,0 +1,32 @@
+<svg fill="none" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style id="citri-profile-style-container">
+                * { margin:0; padding:0; }
+
+                @keyframes profile-container-anim{
+                    0%{ border-width: 7px; border-color:#a0a0a0; top:50%; bottom:50%; left:50%; right:50%; }
+                    20%{ border-width: 7px; border-color:#a0a0a0; top:50%; bottom:50%; left:0; right:0; }
+                    30%{ border-width: 7px; border-color:#a0a0a0; top:50%; bottom:50%; }
+                    30.1%{ border-width: 7px; border-color:transparent; top:50%; bottom:50%; }
+                    39.9%{ border-width: 7px; border-color:transparent; top:50%; bottom:50%; }
+                    40%{ border-width: 7px; border-color:transparent; top:50%; bottom:50%; }
+                    50%{ border-width: 7px; border-color:#a0a0a0; top:50%; bottom:50%; }
+                    100%{ border-width: 7px; border-color:#a0a0a0; top:0; bottom:0; }
+                }
+
+                #citri-profile-container {
+                    display:block;
+                    position:absolute;
+                    top:0; left:0; right:0; bottom:0;
+                    border: 0px transparent solid;
+                    animation: profile-container-anim 1.4s ease-in-out forwards;
+                }
+
+            </style>
+            <div id="citri-profile-container">
+
+            </div>
+        </div>
+    </foreignObject>
+</svg>
