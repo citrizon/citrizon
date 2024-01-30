@@ -45,8 +45,8 @@
                 }
 
                 @keyframes Esoteric-text{
-                    0%{opacity:0.7}
-                    100%{opacity:0.3}
+                    0%{opacity:1}
+                    100%{opacity:0.2}
                 }
 
                 /* ---------------------------- */
