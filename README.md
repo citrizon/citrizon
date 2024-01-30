@@ -1,1 +1,1 @@
-[!image](./buggy-profile-thing-beta.svg)
+![image](./buggy-profile-thing-beta.svg)
