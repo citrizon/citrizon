@@ -1,15 +1,4 @@
-```ini
-[ citrizon 2024-09-12 05:44:40 AM ] Testing... Is this working??
-[ citrizon 2024-09-12 05:45:10 AM ] Oh hello there! I am Botaro Shinomiya!
-[ citrizon 2024-09-12 05:45:20 AM ] And... yeah this is my GitHub Profile for now.
-[ citrizon 2024-09-12 05:45:26 AM ] Have fun around here ig haha :3
-[ citrizon 2024-09-12 05:45:32 AM ] I will now end connection. 
-panic@cpu0/thread=ffffff0149e64b00
-ffffff00045d8290 trace:dtrace_action_panic+77 ()
-ffffff00045d8450 trace:dtrace-probe+6f9 ()
-ffffff00045d84f0 dtracedtrace_state_ _go +36b ()
-ffffff00045d8d00 trace:dtrace_ _ioct1+74d () ffffff00045d8d40 genunix:cdev_ioctI+45()
-ffffff00045d8d80 specfs:spec_ioctl+5a () ffffff00045d8e00 genunix:fop_ioctl+7b ()
-ffffff00045d8f00 genunix:ioctl+18e ()
-ffffff00045d8f10 unix:brand_sys_syscall+20d ()
-```
+[![image](./profile.svg)](https://citri.one/)
+[![image](https://img.shields.io/badge/Discord-white?style=flat-square&labelColor=121216&logo=discord&logoColor=ffffff)](https://discord.com/users/1188824598641389574) [![image](https://img.shields.io/badge/Instagram-white?style=flat-square&labelColor=121216&logo=instagram&logoColor=ffffff)](https://instagram.com/citrizon) [![image](https://img.shields.io/badge/Codepen-white?style=flat-square&labelColor=121216&logo=codepen&logoColor=ffffff)](https://codepen.io/citrizon) [![image](https://img.shields.io/badge/GitHub-white?style=flat-square&labelColor=121216&logo=github&logoColor=ffffff)](https://github.com/citrizon) [![image](https://img.shields.io/badge/Fediverse-white?style=flat-square&labelColor=121216&logo=mastodon&logoColor=ffffff)](https://fedi.moegirl.live/@citrizon)
+------
+Professionalized in Software Development, SFX, Designing and more. I love Anime, Coding and Music. Writing code in Javascript, C#, C++, PHP, Go, Ruby and HTML+CSS since 2018. Interested in Operating Systems, EsoLangs, Fediverse, P2P & E2EE Protocols and Embedded Systems. I <3 Brutalism & Brutalist Designs.
